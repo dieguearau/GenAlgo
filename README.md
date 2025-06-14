@@ -1,6 +1,6 @@
 # Asignación óptima de móviles ante saltos de alarma mediante algoritmos genéticos
 
-Este proyecto presenta una solución al problema de asignación de móviles de respuesta frente a eventos simultáneos, como los saltos de alarma en sistemas de seguridad urbana. El enfoque se basa en el uso de **algoritmos genéticos** para planificar rutas eficientes, minimizando el tiempo total de respuesta y balanceando la carga entre los móviles disponibles.
+Este proyecto presenta una solución al problema de asignación de móviles de respuesta frente a eventos simultáneos, como los saltos de alarma en sistemas de seguridad. El enfoque se basa en el uso de **algoritmos genéticos** para planificar rutas eficientes, minimizando el tiempo total de respuesta y balanceando la carga entre los móviles disponibles.
 
 ---
 
