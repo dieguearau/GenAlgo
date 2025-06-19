@@ -2,8 +2,6 @@
 
 Este proyecto presenta una solución al problema de asignación de móviles de respuesta frente a eventos simultáneos, como los saltos de alarma en sistemas de seguridad. El enfoque se basa en el uso de **algoritmos genéticos** para planificar rutas eficientes, minimizando el tiempo total de respuesta y balanceando la carga entre los móviles disponibles.
 
----
-
 ### ⚠️ **Aviso sobre los datos utilizados**
 
 **IMPORTANTE**: Todos los datos geográficos utilizados en este proyecto son **totalmente simulados** con fines académicos y experimentales. Las ubicaciones de las alarmas, rutas y móviles fueron generadas artificialmente dentro de una zona geográfica representativa (Montevideo, Uruguay), pero **no reflejan datos reales de clientes, servicios, incidentes ni infraestructura operativa**.  
