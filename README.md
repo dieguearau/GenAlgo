@@ -59,7 +59,7 @@ Esto representa una mejora **superior al 70%** en tiempo operativo respecto a un
 ## 📂 Contenido del repositorio
 
 - `asignacion_moviles.ipynb`: Notebook completo con el código, visualizaciones y pruebas.
-- `document.pdf`: Informe técnico con la descripción detallada del problema, la implementación y los resultados.
+- `Informe.pdf`: Informe técnico con la descripción detallada del problema, la implementación y los resultados.
 - Imágenes de mapas y rutas generadas.
 
 ---
