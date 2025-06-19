@@ -4,6 +4,14 @@ Este proyecto presenta una solución al problema de asignación de móviles de r
 
 ---
 
+### ⚠️ **Aviso sobre los datos utilizados**
+
+**IMPORTANTE**: Todos los datos geográficos utilizados en este proyecto son **totalmente simulados** con fines académicos y experimentales. Las ubicaciones de las alarmas, rutas y móviles fueron generadas artificialmente dentro de una zona geográfica representativa (Montevideo, Uruguay), pero **no reflejan datos reales de clientes, servicios, incidentes ni infraestructura operativa**.  
+ 
+Este trabajo no compromete en ningún aspecto la confidencialidad ni privacidad de datos sensibles. Se trata exclusivamente de una simulación para validar una propuesta metodológica.
+
+---
+
 ## 📍 Contexto
 
 El escenario planteado consiste en 40 alarmas activadas simultáneamente en distintas zonas de **Montevideo, Uruguay**, las cuales deben ser atendidas por **3 móviles** que parten desde una base común. El objetivo es encontrar una asignación óptima que reduzca el tiempo total estimado de respuesta y garantice una distribución operativa equilibrada.
